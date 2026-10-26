@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Imagen de producto no disponible">
+  <rect width="400" height="400" rx="28" fill="#fff8dc"/>
+  <circle cx="200" cy="165" r="82" fill="#f3d78e"/>
+  <path d="M165 146h70v95h-70z" rx="12" fill="#8b0000"/>
+  <path d="M177 130h46v20h-46z" fill="#b8860b"/>
+  <path d="M177 180h46v8h-46z" fill="#ffd700"/>
+  <text x="200" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#5d4425">Producto</text>
+  <text x="200" y="332" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#5d4425">Imagen no disponible</text>
+</svg>

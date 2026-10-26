@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito 2026 | Iniciar sesión</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body class="login-body">
+    <main class="login-shell">
+        <section class="login-card">
+            <div class="login-brand">
+                <span class="brand-badge">C</span>
+                <div>
+                    <p class="eyebrow">Bienvenido</p>
+                    <h1>Carrito 2026</h1>
+                </div>
+            </div>
+
+            <p class="login-text">Accede para continuar con tus compras y guardar tu carrito.</p>
+
+            <form id="login-form" class="login-form">
+                <button id="btnLogin" type="button" class="btn-google">
+                    <span class="google-mark">G</span>
+                    Ingresar con Google
+                </button>
+                <button id="btnLogout" type="button" class="btn-logout" style="display:none">Salir</button>
+                <span id="usuario" class="usuario"></span>
+            </form>
+        </section>
+    </main>
+
+    <script type="module" src="./login.js"></script>
+</body>
+</html>
